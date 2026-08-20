@@ -1,34 +1,32 @@
 # Gabriel Monteiro Alonso
 
-Engenheiro Mecânico em transição para desenvolvimento de software, com experiência profissional em engenharia, gestão e operação.
+I build apps, extensions, and tools. Some become published products; others remain open-source projects or experiments.
 
-Tenho matrícula confirmada no MBA em Engenharia de Software da USP/ESALQ, com início em outubro de 2026. Atualmente, aprofundo meus fundamentos de programação e TypeScript e aplico esse aprendizado em produtos próprios publicados para iPhone, macOS e Chrome.
+My most complete projects today focus on dictation and transcription for iPhone, macOS, and Chrome. I work with AI coding agents; my role covers problem framing, product decisions, integrations, testing, releases, and maintenance.
 
-Desenvolvo com apoio de agentes de IA, atuando principalmente na definição de requisitos, decisões de produto e arquitetura, integração, testes, publicação e operação.
-
-## Projetos em destaque
+## Featured projects
 
 ### [dictate.](https://usedictate.app)
 
-Produto de voz para texto publicado para iPhone na App Store e distribuído para macOS pelo site próprio. Atuo na concepção, evolução e operação dos clientes em Swift/SwiftUI e do backend em TypeScript/Convex.
+A voice-to-text product available for iPhone on the App Store and distributed for macOS through its own website. I work on product direction, evolution, and operations across the Swift/SwiftUI clients and TypeScript/Convex backend.
 
-### [Transcritor para WhatsApp](https://github.com/gabrielMalonso/whatsapp-audio-transcriber)
+### [WhatsApp Audio Transcriber](https://github.com/gabrielMalonso/whatsapp-audio-transcriber)
 
-Extensão open source em TypeScript e React para transcrever mensagens de voz no WhatsApp Web. Está publicada na [Chrome Web Store](https://chromewebstore.google.com/detail/dnfdcckllipjhijlddogocihdabnbblp) e utiliza Manifest V3, validação, cache local, testes automatizados e integração contínua.
+An open-source TypeScript and React extension that transcribes voice messages on WhatsApp Web. It is available on the [Chrome Web Store](https://chromewebstore.google.com/detail/dnfdcckllipjhijlddogocihdabnbblp) and uses Manifest V3, validation, local caching, automated tests, and continuous integration.
 
 ### [DictateOSS](https://github.com/gabrielMalonso/DictateOSS)
 
-Aplicativo open source de ditado para macOS, com transcrição local usando MLX Whisper e aceleração opcional pela Groq.
+An open-source dictation app for macOS with local transcription using MLX Whisper and optional Groq acceleration.
 
-## Formação em andamento
+## Ongoing education
 
-- MBA em Engenharia de Software — USP/ESALQ, início em outubro de 2026.
-- [Fundamentos de programação e TypeScript](https://github.com/gabrielMalonso/Typescript-Course) — estudo estruturado com teoria, exercícios, avaliações e projetos práticos.
+- MBA in Software Engineering — USP/ESALQ, starting October 2026.
+- [Programming fundamentals and TypeScript](https://github.com/gabrielMalonso/Typescript-Course) — structured study with lessons, exercises, assessments, and practical projects.
 
-## Tecnologias presentes nos projetos
+## Technologies used across projects
 
 Swift · SwiftUI · TypeScript · React · Convex · Git/GitHub · CI/CD
 
-## Contato
+## Contact
 
-[LinkedIn](https://www.linkedin.com/in/gabriel-alonso-/) · [E-mail](mailto:gabrielmonteiroalonso2@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gabriel-alonso-/) · [Email](mailto:gabrielmonteiroalonso2@gmail.com)
