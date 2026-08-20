@@ -1,8 +1,8 @@
 # Gabriel Monteiro Alonso
 
-I build apps, extensions, and tools. Some become published products; others remain open-source projects or experiments.
+I build apps, extensions, and tools. Some become published products, others remain open-source projects or experiments.
 
-My most complete projects today focus on dictation and transcription for iPhone, macOS, and Chrome. I work with AI coding agents; my role covers problem framing, product decisions, integrations, testing, releases, and maintenance.
+My most complete projects today focus on dictation and transcription for iPhone, macOS, and Chrome. I work with AI coding agents. My role covers problem framing, product decisions, integrations, testing, releases, and maintenance.
 
 ## Featured projects
 
