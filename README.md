@@ -18,7 +18,7 @@ An open-source dictation app for macOS with local transcription using MLX Whispe
 
 ## Ongoing education
 
-- MBA in Software Engineering — USP/ESALQ, starting October 2026.
+- MBA in Software Engineering — USP/ESALQ
 - [Programming fundamentals and TypeScript](https://github.com/gabrielMalonso/Typescript-Course) — structured study with lessons, exercises, assessments, and practical projects.
 
 ## Technologies used across projects
