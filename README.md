@@ -1,30 +1,34 @@
 # Gabriel Monteiro Alonso
 
-I like building stuff. The feeling of having something you built working is amazing.
+I like building things and figuring out how they work. It is really satisfying about turning an idea into something people can actually use.
 
-## Featured projects
+Right now, my main focus is TypeScript and React. I enjoy learning by building real projects, running into problems, and figuring out how to solve them.
+
+## Things I've built
 
 ### [dictate.](https://usedictate.app)
 
-A voice-to-text product available for iPhone on the App Store and distributed for macOS through its own website. I work on product direction, evolution, and operations across the Swift/SwiftUI clients and TypeScript/Convex backend.
+A voice-to-text app I'm building for iPhone and Mac. I work on pretty much everything, from the app itself (Swift/SwiftUI) to the backend (TypeScript and Convex), as well as the product side of things.
 
 ### [WhatsApp Audio Transcriber](https://github.com/gabrielMalonso/whatsapp-audio-transcriber)
 
-An open-source TypeScript and React extension that transcribes voice messages on WhatsApp Web. It is available on the [Chrome Web Store](https://chromewebstore.google.com/detail/dnfdcckllipjhijlddogocihdabnbblp) and uses Manifest V3, validation, local caching, automated tests, and continuous integration.
+A Chrome extension that turns WhatsApp Web voice messages into text. Built with TypeScript and React, with local caching, automated tests, and CI.
+
+It's open source and available on the [Chrome Web Store](https://chromewebstore.google.com/detail/dnfdcckllipjhijlddogocihdabnbblp).
 
 ### [DictateOSS](https://github.com/gabrielMalonso/DictateOSS)
 
-An open-source dictation app for macOS with local transcription using MLX Whisper and optional Groq acceleration.
+An open-source dictation app for macOS. It runs Whisper locally using MLX, with the option to use Groq for faster transcription.
 
-## Ongoing education
+## What I'm learning
 
-- MBA in Software Engineering — USP/ESALQ
-- [Programming fundamentals and TypeScript](https://github.com/gabrielMalonso/Typescript-Course) — structured study with lessons, exercises, assessments, and practical projects.
+- Currently pursuing an MBA in Software Engineering at USP/ESALQ.
+- Going deeper into TypeScript, react and computer science in general.
 
-## Technologies used across projects
+## Tech I work with
 
-Swift · SwiftUI · TypeScript · React · Convex · Git/GitHub · CI/CD
+TypeScript · React · Swift · SwiftUI · Convex · Git · GitHub Actions
 
-## Contact
+## Find me
 
 [LinkedIn](https://www.linkedin.com/in/gabriel-alonso-/) · [Email](mailto:gabrielmonteiroalonso2@gmail.com)
